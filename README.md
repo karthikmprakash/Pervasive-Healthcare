@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.pinclipart.com/picdir/middle/127-1279384_health-icons-heartbeat-icon-transparent-background-clipart.png" alt="Logo" width="auto" height="80">
+   <img src="https://img.icons8.com/cotton/128/000000/health-graph.png"/>
   </a>
 
   <h3 align="center">Pervasive Healthcare</h3>
